@@ -1,0 +1,15 @@
+0 Arp
+1 Background Noise
+2 Bas Davul
+3 Flüt
+4 Klarnet
+5 Konga Davulu
+6 Ksilofon
+7 Piyano
+8 Saksofon
+9 Trompet
+10 Viyolin
+11 Çan
+12 Çello
+13 Üçgen
+14 😡

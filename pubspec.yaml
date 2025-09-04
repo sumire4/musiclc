@@ -1,0 +1,33 @@
+name: musiclc
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  material_color_utilities:
+  tflite_flutter:
+  audioplayers:
+  file_picker:
+  record:
+  path_provider:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/model/vggish.tflite
+    - assets/model/instrument_labels.txt
